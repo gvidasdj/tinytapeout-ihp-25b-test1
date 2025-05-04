@@ -8,13 +8,15 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+Dac 8bit 1Gs. Digital control locig.
+More details to come...
 
 ## How to test
 
 Explain how to use your project
+More details to come...
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+More details to come...
